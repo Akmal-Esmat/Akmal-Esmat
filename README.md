@@ -250,16 +250,16 @@ presented as a polished case-study-driven site.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00F0FF&icon_color=9D4EDD&text_color=C9D1D9&ring_color=00F0FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00F0FF&icon_color=9D4EDD&text_color=C9D1D9&ring_color=00F0FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="49%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D0D0D&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=Akmal-Esmat&theme=dark&hide_border=true&background=0D0D0D&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=00F0FF&line=9D4EDD&point=FF006E&area=true&area_color=1A1A2E" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmal-Esmat&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=00F0FF&line=9D4EDD&point=FF006E&area=true&area_color=1A1A2E" width="95%" />
 
 </div>
 
@@ -267,7 +267,7 @@ presented as a polished case-study-driven site.
 <summary><b>📊 Contribution Snake</b></summary>
 <br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </div>
 </details>
 
