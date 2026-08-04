@@ -5,40 +5,38 @@
   ║  Every element is intentional. No decoration without function.   ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
-<!-- CUSTOM BANNER - Upload github-banner.svg to your profile repo -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CUSTOM BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/github-banner.svg" alt="Systems Engineer Banner" width="100%" />
 </p>
-<!-- ANIMATED TYPING HEADER - Verified working service -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED TYPING HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D26A&center=true&vCenter=true&width=800&lines=Designing+Distributed+Systems+That+Scale;Building+Resilient+Infrastructure+With+Code;Architecting+Cloud-Native+Solutions;Engineering+Systems+That+Fail+Predictably" alt="Typing Animation" />
 </p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- WAVE DIVIDER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/wave-divider.svg" alt="Divider" width="100%" />
 </p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- IDENTITY STATEMENT -->
+<!-- TERMINAL IDENTITY CARD -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2 align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/terminal-card.svg" alt="Terminal Identity" width="100%" />
+</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- STATUS BADGES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-238636?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/LOCATION-CAIRO%2C%20EG-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%26%20INFRA-8957e5?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
-</h2>
-plain
-┌─────────────────────────────────────────────────────────────────────┐
-│  $ whoami                                                           │
-│  systems-engineer                                                   │
-│                                                                     │
-│  $ cat /etc/education                                               │
-│  Computer & Communication Engineering — Cairo University              │
-│                                                                     │
-│  $ ps aux | grep current_focus                                      │
-│  backend          RUNNING  — distributed services & APIs              │
-│  infrastructure   RUNNING  — container orchestration & IaC            │
-│  systems          RUNNING  — low-level design & scheduling            │
-│  security         RUNNING  — defense-in-depth architecture            │
-└─────────────────────────────────────────────────────────────────────┘
+</p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ENGINEERING PHILOSOPHY -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -53,7 +51,6 @@ Automation	Manual processes are bugs waiting to happen. CI/CD pipelines, Infrast
 <!-- TECHNICAL ARCHITECTURE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://img.shields.io/badge/►-00D26A?style=flat-square" alt="bullet" /> Technical Architecture
-<!-- SKILL ICONS - Verified working: skillicons.dev -->
 <h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,py,ts,js,cs,bash&theme=dark" alt="Languages" />
@@ -120,7 +117,6 @@ These are deliberate explorations of system design, not feature demos.
 <!-- 3D CONTRIBUTION GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://img.shields.io/badge/►-00D26A?style=flat-square" alt="bullet" /> Contribution Landscape
-<!-- 3D Contribution Graph - Generated via GitHub Action (see setup below) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
@@ -132,25 +128,21 @@ These are deliberate explorations of system design, not feature demos.
   <table>
     <tr>
       <td>
-        <!-- GitHub Stats Card - Verified: github-readme-stats.vercel.app -->
         <img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
       </td>
       <td>
-        <!-- Streak Stats - Verified: streak-stats.demolab.com -->
         <img src="https://streak-stats.demolab.com?user=Akmal-Esmat&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </p>
 <p align="center">
-  <!-- Top Languages - Verified: github-readme-stats.vercel.app -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&exclude_repo=YOUR_USERNAME" alt="Top Languages" />
 </p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://img.shields.io/badge/►-00D26A?style=flat-square" alt="bullet" /> Activity Feed
-<!-- Contribution Snake - Generated via GitHub Action (see setup below) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake.svg" />
@@ -178,6 +170,5 @@ These are deliberate explorations of system design, not feature demos.
   <img src="https://img.shields.io/badge/Engineering%20is%20the%20art%20of%20making%20complex%20things%20simple-00D26A?style=flat-square&logo=quote&logoColor=white" alt="Quote" />
 </p>
 <p align="center">
-  <!-- Visitor Counter - Verified: hits.sh -->
   <img src="https://hits.sh/github.com/Akmal-Esmat/Akmal-Esmat.svg?style=flat-square&label=Profile%20Views&extraCount=0&color=00D26A&labelColor=161b22" alt="Profile Views" />
 </p>
