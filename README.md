@@ -27,7 +27,7 @@
 <!-- TERMINAL IDENTITY CARD -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/terminal-card.svg" alt="Terminal Identity" width="100%" />
+  <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/terminal-card.svg" alt="Terminal Identity" width="100%" />
 </p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- STATUS BADGES -->
@@ -137,7 +137,7 @@ These are deliberate explorations of system design, not feature demos.
   </table>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&exclude_repo=YOUR_USERNAME" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&exclude_repo=Akmal-Esmat" alt="Top Languages" />
 </p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE -->
