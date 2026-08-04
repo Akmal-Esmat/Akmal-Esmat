@@ -1,305 +1,157 @@
-<div align="center">
+&lt;!-- 
+  ENGINEERING IDENTITY README
+  Designed for: Systems Engineer | Backend | Distributed Systems | DevOps
+  Philosophy: Every element serves a purpose. No decoration without function.
+--&gt;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:1A1A2E,100:16213E&height=220&section=header&text=AKMAL%20●%20SYSTEMS%20ENGINEER&fontSize=42&fontColor=00F0FF&fontAlignY=38&desc=Distributed%20Systems%20·%20DevOps%20·%20AI%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" />
+&lt;div align="center"&gt;
+  
+  &lt;!-- DYNAMIC TYPING HEADER --&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=700&lines=Building+Distributed+Systems;Designing+Resilient+Architecture;Automating+Infrastructure+at+Scale;Engineering+Systems+That+Matter" alt="Engineering Identity" /&gt;
+  
+  &lt;br/&gt;&lt;br/&gt;
+  
+  &lt;!-- TERMINAL-STYLE IDENTITY CARD --&gt;
+  &lt;img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight&headerStyle=mac&hostname=dev.machine&typingSpeed=60" alt="System Status" /&gt;
+  
+&lt;/div&gt;
+
+---
+
+## I Design Systems
+
+I don't write code. I architect solutions.
+
+Every system I build begins with a question: *what happens when this scales?* I approach software engineering with the rigor of infrastructure design — understanding that clean architecture, operational observability, and automated resilience matter more than feature count.
+
+My background in **Computer & Communication Engineering** from **Cairo University** gave me a foundation in how systems communicate, how networks behave under stress, and why distributed systems fail in predictable ways. I apply that foundation to everything I build.
+
+**Currently focused on:**
+- Designing backend services that handle load gracefully
+- Building infrastructure that deploys itself
+- Exploring how AI systems integrate with traditional architecture
+- Understanding the trade-offs between consistency, availability, and partition tolerance
+
+---
 
-<br/>
+## How I Think About Engineering
+
+### Backend Systems
+I design APIs and services with operational intent. My work with **Spring Boot**, **FastAPI**, and **.NET Web API** prioritizes clean architecture, proper separation of concerns, and the understanding that code is read and operated more often than it is written. I build REST APIs and WebSocket services that are predictable, testable, and observable.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=building+production-grade+infrastructure;engineering+CI%2FCD+pipelines+that+don%27t+break;designing+AI+agents+%2B+RAG+%2B+knowledge+graphs;currently+learning%3A+distributed+systems+at+scale" alt="Typing SVG" />
-</a>
+### Distributed Systems & Architecture
+I explore the fundamental challenges of consensus, consistency, and fault tolerance. My **Linux CPU Scheduler Simulator** and **Real-Time Collaborative Editor** are deliberate exercises in understanding how systems coordinate, how they behave under contention, and why certain architectural patterns emerge as solutions to specific classes of problems.
 
-<br/><br/>
+### Infrastructure & DevOps
+I believe infrastructure is code and deployments should be boring. I build CI/CD pipelines with **GitHub Actions**, orchestrate containers with **Kubernetes** and **Helm**, and provision infrastructure with **Terraform** and **Ansible** — not because it's current, but because repeatable, automated systems are the only systems that scale. I monitor what I deploy with **Prometheus** and **Grafana** because you cannot operate what you cannot observe.
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY__BUILDING-00F0FF?style=for-the-badge&labelColor=0D0D0D&logo=statuspage&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/FOCUS-DEVOPS%20%2F%20AI%20SYSTEMS-9D4EDD?style=for-the-badge&labelColor=0D0D0D&logo=kubernetes&logoColor=9D4EDD" />
-<img src="https://img.shields.io/badge/LOCATION-CAIRO%2C%20EGYPT-FF006E?style=for-the-badge&labelColor=0D0D0D&logo=googlemaps&logoColor=FF006E" />
+### Cloud-Native Design
+I design *for* the cloud, not just *on* it. Containerization with **Docker**, microservices decomposition, and GitOps workflows with **ArgoCD** are how I think about modern application lifecycle management. I work primarily on **Azure**, with deep experience in its container and compute services.
 
-</div>
+### Security & Low-Level Systems
+I understand that security is an architectural concern, not a feature. From my **CLI Password Vault** with zero-knowledge architecture to my work with **Kali Linux**, **Wireshark**, and forensic tools like **FTK Imager** and **Volatility**, I approach security from first principles — understanding attack surfaces before building defenses.
 
-<br/>
+---
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+## Technical Architecture
 
-<br/>
+&lt;div align="center"&gt;
 
-## `01` &nbsp;// &nbsp;ABOUT
+  &lt;!-- LANGUAGES --&gt;
+  &lt;h4&gt;Languages&lt;/h4&gt;
+  &lt;img src="https://skillicons.dev/icons?i=cpp,java,py,ts,js,cs,bash&theme=dark" alt="Languages" /&gt;
+  
+  &lt;br/&gt;&lt;br/&gt;
+  
+  &lt;!-- BACKEND & FRAMEWORKS --&gt;
+  &lt;h4&gt;Backend & Frameworks&lt;/h4&gt;
+  &lt;img src="https://skillicons.dev/icons?i=spring,fastapi,dotnet,nodejs,nextjs,react&theme=dark" alt="Backend" /&gt;
+  
+  &lt;br/&gt;&lt;br/&gt;
+  
+  &lt;!-- INFRASTRUCTURE & CLOUD --&gt;
+  &lt;h4&gt;Infrastructure & Cloud&lt;/h4&gt;
+  &lt;img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,terraform,ansible,githubactions,prometheus,grafana&theme=dark" alt="Infrastructure" /&gt;
+  
+  &lt;br/&gt;&lt;br/&gt;
+  
+  &lt;!-- DATA & TOOLS --&gt;
+  &lt;h4&gt;Data & Engineering Tools&lt;/h4&gt;
+  &lt;img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,git,linux,vscode,androidstudio,postman&theme=dark" alt="Data & Tools" /&gt;
 
-<table>
-<tr>
-<td width="60%" valign="top">
+&lt;/div&gt;
 
-```yaml
-engineer:
-  name: Akmal
-  role: Computer Engineering — Final Year, Cairo University
-  currently: DevOps Intern @ Efinance
-  builds:
-    - CI/CD pipelines with security scanning baked in
-    - Containerized full-stack systems (Docker → Azure)
-    - AI agents with real reasoning, not just prompt-chaining
-  believes: "infrastructure is a product too"
-  status: shipping, breaking things, fixing them faster
-```
+---
 
-I'm an engineering student who treats side projects like production systems —
-version-controlled, containerized, tested, and monitored. My internship at
-**Efinance** has me deep in Docker, GitHub Actions, and Azure deployments,
-while my graduation project pushes into **OS-level AI agents** with dual
-action modes, verification layers, and re-planning under uncertainty.
+## Engineering Projects
 
-I'm not chasing buzzwords. I'm **building the boring, reliable parts**
-underneath the AI systems everyone else is racing to ship.
+These are not just projects. They are architectural exercises.
 
-</td>
-<td width="40%" valign="top" align="center">
+| Project | Engineering Focus | Key Architectural Decisions |
+|---------|------------------|---------------------------|
+| [**SoundCloud Clone**](#) | Microservices, Media Streaming, Real-Time Features | Separated audio streaming from metadata services; implemented WebSocket-based real-time updates; designed for horizontal scalability |
+| [**Real-Time Collaborative Editor**](#) | Operational Transformation, Conflict Resolution, Low-Latency Sync | Chose OT over CRDT for deterministic ordering; designed WebSocket architecture for sub-100ms sync; handled edge cases in concurrent editing |
+| [**Linux CPU Scheduler Simulator**](#) | Process Scheduling, Performance Metrics, Systems Programming | Implemented multiple scheduling policies (FCFS, SJF, RR, Priority) in C++; built comparative analysis framework for fairness vs. throughput trade-offs |
+| [**CLI Password Vault**](#) | Cryptography, Security-First Design, Systems Programming | Zero-knowledge architecture with no plaintext storage; secure memory handling; cryptographic key derivation for master password protection |
+| **Cloud-Native Applications** | Containerization, Kubernetes Orchestration, GitOps | Designed microservices for container deployment; implemented Helm charts for configuration management; built ArgoCD pipelines for continuous delivery |
+| **Infrastructure Automation** | IaC, Configuration Management, Observability | Provisioned Azure infrastructure with Terraform; automated server configuration with Ansible; implemented Prometheus/Grafana monitoring stacks |
+| **DevOps Pipelines** | CI/CD, Automated Testing, Deployment Strategy | Built GitHub Actions workflows with matrix builds; implemented blue-green deployment patterns; integrated security scanning into pipeline |
 
-<img src="https://raw.githubusercontent.com/ByeonghakBae/readme/master/asset/ci-cd-pipeline.gif" width="90%" onerror="this.style.display='none'"/>
+---
 
-```
-$ whoami
-> engineer, not hype-chaser
+## Engineering Metrics
 
-$ current_mode
-> build → break → fix → repeat
+&lt;div align="center"&gt;
 
-$ uptime
-> 3+ years, self-driven
-```
+  &lt;!-- CONTRIBUTION SNAKE --&gt;
+  &lt;picture&gt;
+    &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" /&gt;
+    &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" /&gt;
+    &lt;img alt="Contribution Graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" /&gt;
+  &lt;/picture&gt;
 
-</td>
-</tr>
-</table>
+  &lt;br/&gt;&lt;br/&gt;
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+  &lt;!-- STATS CARDS --&gt;
+  &lt;table&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;
 
-## `02` &nbsp;// &nbsp;TECH STACK
+  &lt;!-- TOP LANGUAGES --&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" /&gt;
 
-<div align="center">
+&lt;/div&gt;
 
-**Languages**
+---
 
-<img src="https://skillicons.dev/icons?i=cpp,py,java,ts&theme=dark" />
+## Operating Environment
 
-**Backend**
+```bash
+$ uname -a
+Linux dev-machine 6.5.0-generic #1 SMP x86_64 GNU/Linux
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" />
-<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00F0FF&labelColor=0D0D0D" />
+$ cat /etc/os-release | head -n 2
+PRETTY_NAME="Ubuntu 22.04 LTS"
+NAME="Ubuntu"
 
-**Frontend**
+$ echo $SHELL
+/bin/bash
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
+$ kubectl version --client
+Client Version: v1.28.0
 
-**DevOps & Cloud**
+$ docker --version
+Docker version 24.0.0, build buildx
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,azure,linux,bash,nginx&theme=dark" />
+$ terraform --version
+Terraform v1.6.0
 
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-
-**Observability**
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-<img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,vscode,idea,postman&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🧠 AI & Data Engineering — <i>current focus</i>
-
-<img src="https://img.shields.io/badge/AI_Agents-Exploring-0D0D0D?style=flat-square&logo=robotframework&logoColor=00F0FF&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/RAG-Building-0D0D0D?style=flat-square&logo=databricks&logoColor=00F0FF&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/Knowledge_Graphs-Experimenting-0D0D0D?style=flat-square&logo=neo4j&logoColor=00F0FF&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/Vector_DBs-Designing-0D0D0D?style=flat-square&logo=pinecone&logoColor=00F0FF&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/LangGraph-Learning-0D0D0D?style=flat-square&logo=langchain&logoColor=00F0FF&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/MCP-Interested_In-0D0D0D?style=flat-square&logo=anthropic&logoColor=00F0FF&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/Semantic_Search-Building-0D0D0D?style=flat-square&logo=elasticsearch&logoColor=00F0FF&labelColor=0D0D0D" />
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-## `03` &nbsp;// &nbsp;WHAT I'M ENGINEERING RIGHT NOW
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🧠
-**AI Knowledge System**
-
-Agent-driven retrieval engine fusing RAG, knowledge graphs, and vector search into one reasoning pipeline.
-
-`Designing` · `Experimenting`
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### ⚙️
-**DevOps Playground**
-
-A live sandbox for CI/CD, Kubernetes, Terraform, ArgoCD, and full-stack observability at scale.
-
-`Building` · `Iterating`
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🤖
-**OS-Level AI Agent**
-
-Graduation project — dual-mode agent (GUI + shell) with a verification layer and re-planning under uncertainty.
-
-`Engineering` · `Currently learning`
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-## `04` &nbsp;// &nbsp;FEATURED PROJECTS
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>🚀 &nbsp;AI Knowledge System</h3>
-
-<p>
-An integrated system combining <b>AI agents</b>, <b>semantic retrieval</b>,
-<b>knowledge graphs</b>, and <b>vector search</b> into a single pipeline
-for grounded, context-aware reasoning over structured and unstructured data.
-</p>
-
-<img src="https://img.shields.io/badge/status-in%20development-9D4EDD?style=flat-square&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/stack-Python%20%7C%20LangGraph%20%7C%20Vector%20DB-00F0FF?style=flat-square&labelColor=0D0D0D" />
-
-<br/><br/>
-
-<a href="#"><img src="https://img.shields.io/badge/View_Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
-
-</td>
-<td width="50%">
-
-<h3>⚙️ &nbsp;DevOps Engineering Playground</h3>
-
-<p>
-A hands-on infrastructure lab: CI/CD pipelines, Kubernetes clusters,
-Terraform-provisioned environments, ArgoCD GitOps flows, and a full
-Prometheus + Grafana + Loki observability stack.
-</p>
-
-<img src="https://img.shields.io/badge/status-actively%20expanding-00F0FF?style=flat-square&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/stack-K8s%20%7C%20Terraform%20%7C%20ArgoCD-FF006E?style=flat-square&labelColor=0D0D0D" />
-
-<br/><br/>
-
-<a href="#"><img src="https://img.shields.io/badge/View_Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" colspan="2">
-
-<h3>🍔 &nbsp;Restaurant Marketing Portfolio</h3>
-
-<p>
-A premium client-facing portfolio showcasing measurable restaurant growth —
-performance analytics, local SEO strategy, and paid advertising campaigns,
-presented as a polished case-study-driven site.
-</p>
-
-<img src="https://img.shields.io/badge/status-live%20portfolio-9D4EDD?style=flat-square&labelColor=0D0D0D" />
-<img src="https://img.shields.io/badge/stack-Next.js%20%7C%20TailwindCSS-00F0FF?style=flat-square&labelColor=0D0D0D" />
-
-<br/><br/>
-
-<a href="#"><img src="https://img.shields.io/badge/View_Project-0D0D0D?style=for-the-badge&logo=vercel&logoColor=00F0FF" /></a>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📦 More projects & experiments</b></summary>
-<br/>
-
-| Project | Description | Stack |
-|---|---|---|
-| Enterprise Release Scanner | Bash-based scanner auditing container image versions across registries | Bash · Registry APIs |
-| Full-Stack AI Chatbot | Containerized chatbot with automated CI/CD, security scanning & Azure deploy | Next.js · FastAPI · Docker |
-| CRDT Text Editor | Real-time collaborative text editor with conflict-free replication | Java |
-| Code Authorship Predictor | Feature extraction pipeline for detecting AI-generated code | Python · tree-sitter |
-
-</details>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-## `05` &nbsp;// &nbsp;GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00F0FF&icon_color=9D4EDD&text_color=C9D1D9&ring_color=00F0FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00F0FF&text_color=C9D1D9&langs_count=8" width="49%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Akmal-Esmat&theme=dark&hide_border=true&background=0D0D0D&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF" width="70%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmal-Esmat&theme=react-dark&hide_border=true&bg_color=0D0D0D&color=00F0FF&line=9D4EDD&point=FF006E&area=true&area_color=1A1A2E" width="95%" />
-
-</div>
-
-<details>
-<summary><b>📊 Contribution Snake</b></summary>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</div>
-</details>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-## `06` &nbsp;// &nbsp;CONNECT
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=00F0FF" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF006E" />
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=9D4EDD" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=00F0FF" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS&labelColor=0D0D0D" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:1A1A2E,100:0F0F1A&height=140&section=footer" />
-
-<div align="center">
-<sub><b>「 shipping systems, not slides 」</b></sub>
-</div>
+$ echo "Current focus: Distributed systems, cloud-native architecture, and infrastructure automation"
+Current focus: Distributed systems, cloud-native architecture, and infrastructure automation
