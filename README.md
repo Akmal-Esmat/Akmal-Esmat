@@ -7,7 +7,7 @@
 -->
 <!-- CUSTOM BANNER - Upload github-banner.svg to your profile repo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-banner.svg" alt="Systems Engineer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/github-banner.svg" alt="Systems Engineer Banner" width="100%" />
 </p>
 <!-- ANIMATED TYPING HEADER - Verified working service -->
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 <!-- WAVE DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/wave-divider.svg" alt="Divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/wave-divider.svg" alt="Divider" width="100%" />
 </p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- IDENTITY STATEMENT -->
@@ -122,7 +122,7 @@ These are deliberate explorations of system design, not feature demos.
 <img src="https://img.shields.io/badge/►-00D26A?style=flat-square" alt="bullet" /> Contribution Landscape
 <!-- 3D Contribution Graph - Generated via GitHub Action (see setup below) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
@@ -133,18 +133,18 @@ These are deliberate explorations of system design, not feature demos.
     <tr>
       <td>
         <!-- GitHub Stats Card - Verified: github-readme-stats.vercel.app -->
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
       </td>
       <td>
         <!-- Streak Stats - Verified: streak-stats.demolab.com -->
-        <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Akmal-Esmat&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </p>
 <p align="center">
   <!-- Top Languages - Verified: github-readme-stats.vercel.app -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&exclude_repo=YOUR_USERNAME" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css&exclude_repo=YOUR_USERNAME" alt="Top Languages" />
 </p>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION SNAKE -->
@@ -152,16 +152,16 @@ These are deliberate explorations of system design, not feature demos.
 <img src="https://img.shields.io/badge/►-00D26A?style=flat-square" alt="bullet" /> Activity Feed
 <!-- Contribution Snake - Generated via GitHub Action (see setup below) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </picture>
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- CONNECT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://img.shields.io/badge/►-00D26A?style=flat-square" alt="bullet" /> Network Interfaces
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/akmal-esmat-894a01346/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL">
@@ -179,5 +179,5 @@ These are deliberate explorations of system design, not feature demos.
 </p>
 <p align="center">
   <!-- Visitor Counter - Verified: hits.sh -->
-  <img src="https://hits.sh/github.com/YOUR_USERNAME/YOUR_USERNAME.svg?style=flat-square&label=Profile%20Views&extraCount=0&color=00D26A&labelColor=161b22" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/Akmal-Esmat/Akmal-Esmat.svg?style=flat-square&label=Profile%20Views&extraCount=0&color=00D26A&labelColor=161b22" alt="Profile Views" />
 </p>
