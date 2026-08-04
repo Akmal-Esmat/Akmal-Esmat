@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**Akmal-Esmat/Akmal-Esmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:1A1A2E,100:16213E&height=220&section=header&text=AKMAL%20●%20SYSTEMS%20ENGINEER&fontSize=42&fontColor=00F0FF&fontAlignY=38&desc=Distributed%20Systems%20·%20DevOps%20·%20AI%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" />
 
@@ -313,8 +303,3 @@ presented as a polished case-study-driven site.
 <div align="center">
 <sub><b>「 shipping systems, not slides 」</b></sub>
 </div>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
