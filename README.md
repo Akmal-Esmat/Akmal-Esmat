@@ -1,182 +1,393 @@
 <!--
-==============================================================================
-  AKMAL ESMAT — NEXT-GENERATION GITHUB PROFILE README
-==============================================================================
-  INSTRUCTIONS FOR CUSTOMIZATION:
-  1. Replace 'akmalesmat' with your actual GitHub username across all links.
-  2. Replace 'your.email@domain.com' and 'yourportfolio.dev' with your details.
-  3. For WakaTime stats to work, register at https://wakatime.com and link your IDE.
-  4. To enable the Contribution Snake, set up the GitHub Action workflow:
-     https://github.com/Platane/snk
-==============================================================================
+  ============================================================================
+  AKMAL ESMAT — GITHUB PROFILE README
+  ============================================================================
+  SETUP
+  1. Repo must be named exactly "Akmal-Esmat" (match your GitHub username)
+     with this file as README.md at the root — GitHub renders it on your
+     profile page automatically.
+  2. Put the /assets folder next to this file in the same repo.
+  3. Every 🔧 marks something to personalize (links, usernames, wakatime).
+  4. Add .github/workflows/snake.yml (below) once, then push to main.
+  5. WHY EXTERNAL SVG FILES INSTEAD OF INLINE <svg>: GitHub's markdown
+     sanitizer strips inline <svg>, <filter>, <feGaussianBlur>, etc. when
+     pasted directly into a README — it does not render reliably. Every
+     animated visual here is instead a standalone .svg file referenced via
+     <img src="./assets/x.svg">, so the browser (not GitHub's sanitizer)
+     renders the file directly, including its native SMIL animation.
+  ============================================================================
 -->
 
 <div align="center">
 
-  <!-- 1. ANIMATED HERO BANNER (FUTURISTIC CYBER GRID & MATRIX SVG) -->
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 320' width='100%' height='100%' style='background:%2308090d; font-family:monospace;'><defs><linearGradient id='grid-grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'><stop offset='0%25' stop-color='%2300f2fe' stop-opacity='0.15'/><stop offset='50%25' stop-color='%234facfe' stop-opacity='0.05'/><stop offset='100%25' stop-color='%23000000' stop-opacity='0.8'/></linearGradient><linearGradient id='glow' x1='0%25' y1='0%25' x2='100%25' y2='0%25'><stop offset='0%25' stop-color='%2300f2fe'/><stop offset='50%25' stop-color='%239b51e0'/><stop offset='100%25' stop-color='%2300f2fe'/></linearGradient><pattern id='cyber-grid' width='40' height='40' patternUnits='userSpaceOnUse'><path d='M 40 0 L 0 0 0 40' fill='none' stroke='%2300f2fe' stroke-width='0.5' stroke-opacity='0.15'/></pattern><style>@keyframes pulse { 0%25 { opacity: 0.3; } 50%25 { opacity: 0.9; } 100%25 { opacity: 0.3; } } @keyframes float { 0%25 { transform: translateY(0px); } 50%25 { transform: translateY(-8px); } 100%25 { transform: translateY(0px); } stroke-dashoffset: 0; } .g-node { animation: pulse 3s infinite ease-in-out; } .floating-card { animation: float 5s infinite ease-in-out; }</style></defs><rect width='1200' height='320' fill='%2308090d'/><rect width='1200' height='320' fill='url(%23cyber-grid)'/><rect width='1200' height='320' fill='url(%23grid-grad)'/><circle cx='200' cy='100' r='1.5' fill='%2300f2fe' class='g-node'/><circle cx='800' cy='220' r='2' fill='%239b51e0' class='g-node'/><circle cx='1050' cy='80' r='1.5' fill='%2300f2fe' class='g-node'/><path d='M0 160 Q 300 80 600 160 T 1200 160' fill='none' stroke='url(%23glow)' stroke-width='1.5' opacity='0.4'/><g class='floating-card'><rect x='350' y='60' width='500' height='200' rx='16' fill='%230d1117' stroke='url(%23glow)' stroke-width='1.5' opacity='0.95'/><text x='600' y='120' text-anchor='middle' fill='%23ffffff' font-size='28' font-weight='bold' letter-spacing='3'>AKMAL ESMAT</text><text x='600' y='155' text-anchor='middle' fill='%2300f2fe' font-size='14' letter-spacing='2'>COMPUTER &amp; COMMUNICATIONS ENGINEER</text><path d='M 420 180 L 780 180' stroke='%2330363d' stroke-width='1'/><text x='600' y='215' text-anchor='middle' fill='%238b949e' font-size='13' letter-spacing='1'>SYSTEMS ARCHITECT &amp; AI ENGINEER</text></g></svg>" alt="Akmal Esmat Cyber Hero Banner" width="100%" />
+<!-- ============ HERO BANNER ============ -->
+<img src="./assets/hero-banner.svg" width="100%" alt="Akmal Esmat"/>
 
-  <br/><br/>
+<br/>
 
-  <!-- 2. INTERACTIVE TERMINAL HERO WITH DYNAMIC TYPING -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=750&height=50&lines=%24+whoami;Akmal+Esmat+--+Computer+%26+Communications+Engineer;%3E+Full+Stack+Developer;%3E+DevOps+Engineer;%3E+Linux+Enthusiast;%3E+AI+Systems+Builder;%3E+Automation+Addict;%3E+Building+Systems+That+Outlive+Attention" alt="Dynamic Terminal Typing Animation" />
+```bash
+$ whoami
+
+Akmal Esmat
+Computer & Communications Engineer — Cairo University
+
+> DevOps Engineer @ e-finance
+> Backend & Systems Builder (Spring Boot, FastAPI, .NET)
+> Linux + Automation Enthusiast
+> AI / Agent Systems Tinkerer
+```
+
+<!-- ============ TYPING ANIMATION ============ -->
+<!-- 🔧 regenerate at https://readme-typing-svg.demolab.com -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Linux+Power+User;DevOps+Engineer;Automation+Builder;AI+Agent+Developer;Backend+Engineer;Problem+Solver;Always+Learning;Shipping+Projects;Open+Source+Contributor" alt="typing animation"/>
+
+<br/><br/>
+
+<!-- 🔧 replace hrefs -->
+<a href="https://github.com/Akmal-Esmat"><img src="https://img.shields.io/badge/GitHub-05070d?style=for-the-badge&logo=github&logoColor=00f0ff"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-05070d?style=for-the-badge&logo=linkedin&logoColor=00f0ff"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-05070d?style=for-the-badge&logo=gmail&logoColor=00f0ff"/></a>
 
 </div>
 
 <br/>
 
-<!-- 3. REAL-TIME SYSTEM STATUS WIDGETS (CUSTOM SVG DASHBOARD) -->
+<!-- ============ CONTRIBUTION SNAKE ============ -->
 <div align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 130' width='100%' style='background:transparent; font-family:monospace;'><style>.card { fill: %230d1117; stroke: %2330363d; stroke-width: 1px; rx: 10px; } .label { fill: %238b949e; font-size: 11px; text-transform: uppercase; letter-spacing: 1px; } .val { fill: %2358a6ff; font-size: 14px; font-weight: bold; } .dot { fill: %232ea043; animation: pulse 1.5s infinite; } @keyframes pulse { 0%25 { opacity: 0.2; } 50%25 { opacity: 1; } 100%25 { opacity: 0.2; } }</style><g transform='translate(10, 10)'><rect class='card' width='270' height='110'/><text x='20' y='35' class='label'>📍 LOCATION</text><text x='20' y='70' class='val'>Cairo, Egypt 🇪🇬</text><text x='20' y='90' fill='%238b949e' font-size='10'>UTC+02:00</text></g><g transform='translate(310, 10)'><rect class='card' width='270' height='110'/><circle cx='25' cy='31' r='4' class='dot'/><text x='38' y='35' class='label'>SYSTEM STATUS</text><text x='20' y='70' class='val' fill='%233fb950'>ONLINE &amp; BUILDING</text><text x='20' y='90' fill='%238b949e' font-size='10'>Autonomous AI Agents</text></g><g transform='translate(610, 10)'><rect class='card' width='270' height='110'/><text x='20' y='35' class='label'>⚡ CURRENT FOCUS</text><text x='20' y='70' class='val' fill='%23bc8cff'>Distributed AI Systems</text><text x='20' y='90' fill='%238b949e' font-size='10'>LangGraph %2B Vector DBs</text></g></svg>" alt="System Status Widgets" />
+<h3>Contribution Snake</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ snake.yml — add to <code>.github/workflows/snake.yml</code></summary>
+
+```yaml
+name: generate-snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Akmal-Esmat
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<br/>
+
+<!-- ============ SKILLS ============ -->
+<div align="center">
+<h3>Stack</h3>
+<img src="./assets/skills.svg" width="100%" alt="skills"/>
 </div>
 
 <br/>
 
----
-
-### 🛠️ 3D Tech Stack & Ecosystem
-
+<!-- ============ ARCHITECTURE ============ -->
 <div align="center">
-  <!-- Interactive Layered 3D Cards Grid -->
-  <table>
-    <tr>
-      <td width="33%" valign="top">
-        <h4 align="center">💻 Languages</h4>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-        </p>
-      </td>
-      <td width="33%" valign="top">
-        <h4 align="center">🌐 Web & Backend</h4>
-        <p align="center">
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
-          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=json&logoColor=white" />
-        </p>
-      </td>
-      <td width="33%" valign="top">
-        <h4 align="center">☁️ DevOps & AI</h4>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
-          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /><br/>
-          <img src="https://img.shields.io/badge/VectorDB-FF6F61?style=for-the-badge&logo=database&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
+<h3>How I Build Things</h3>
+<img src="./assets/architecture.svg" width="720" alt="architecture diagram"/>
+<p><sub>Dots crawling down the pipe are simulated request flow — pure SVG, no JS.</sub></p>
 </div>
 
 <br/>
 
----
-
-### 🏗️ Animated System Architecture Flow
-
-> **Enterprise AI & Distributed Microservice Pipeline**
-
+<!-- ============ WAKATIME (single source of truth: the anchor comment) ============ -->
+<!--
+  🔧 SETUP: install the WakaTime plugin in your editor, then fork
+  https://github.com/anmol098/waka-readme-stats and follow its setup so a
+  scheduled Action rewrites the block between the WAKATIME markers below.
+  Until that Action runs once, the block stays empty — that's expected.
+-->
 <div align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 220' width='100%' style='background:%230d1117; border-radius:12px; stroke:%2330363d; font-family:monospace;'><defs><linearGradient id='p-grad' x1='0%25' y1='0%25' x2='100%25' y2='0%25'><stop offset='0%25' stop-color='%2300f2fe'/><stop offset='50%25' stop-color='%239b51e0'/><stop offset='100%25' stop-color='%233fb950'/></linearGradient><style>.node { fill: %23161b22; stroke: %2330363d; stroke-width: 1.5px; rx: 8px; } .node-title { fill: %23f0f6fc; font-size: 12px; font-weight: bold; text-anchor: middle; } .node-sub { fill: %238b949e; font-size: 10px; text-anchor: middle; } .wire { fill: none; stroke: %2330363d; stroke-width: 2px; stroke-dasharray: 6 6; animation: dash 20s linear infinite; } .active-wire { fill: none; stroke: url(%23p-grad); stroke-width: 2.5px; stroke-dasharray: 8 8; animation: dash 8s linear infinite; } @keyframes dash { to { stroke-dashoffset: -200; } }</style></defs><path d='M 110 110 L 230 110 L 350 110 L 470 110 L 590 110 L 710 110 L 830 110' class='active-wire'/><g transform='translate(20, 70)'><rect class='node' width='100' height='80'/><text x='50' y='38' class='node-title'>🌐 Browser</text><text x='50' y='58' class='node-sub'>Client Entry</text></g><g transform='translate(150, 70)'><rect class='node' width='100' height='80'/><text x='50' y='38' class='node-title'>⚡ Next.js</text><text x='50' y='58' class='node-sub'>Frontend UI</text></g><g transform='translate(280, 70)'><rect class='node' width='100' height='80'/><text x='50' y='38' class='node-title'>🛡️ NGINX</text><text x='50' y='58' class='node-sub'>API Gateway</text></g><g transform='translate(410, 70)'><rect class='node' width='100' height='80'/><text x='50' y='38' class='node-title'>🚀 FastAPI</text><text x='50' y='58' class='node-sub'>Core Engine</text></g><g transform='translate(540, 70)'><rect class='node' width='100' height='80'/><text x='50' y='38' class='node-title'>🤖 LangGraph</text><text x='50' y='58' class='node-sub'>AI Agents</text></g><g transform='translate(670, 70)'><rect class='node' width='100' height='80'/><text x='50' y='38' class='node-title'>🧠 Qdrant</text><text x='50' y='58' class='node-sub'>Vector Store</text></g><g transform='translate(800, 70)'><rect class='node' width='100' height='80'/><text x='50' y='38' class='node-title'>☁️ K8s Cluster</text><text x='50' y='58' class='node-sub'>Cloud Infra</text></g></svg>" alt="System Architecture Flow" />
-</div>
+<h3>Coding Activity</h3>
 
-<br/>
-
----
-
-### 🚀 Currently Building & R&D Work
-
-<div align="center">
-
-| Project Showcase | Description | Stack & Architecture | Status |
-| :--- | :--- | :--- | :---: |
-| 🚀 **AI Knowledge OS** | Autonomous multi-agent memory engine & knowledge synthesis | `Python` `LangGraph` `Qdrant` `FastAPI` | `[████████░░] 80%` |
-| ⚡ **Agentic Orchestrator** | High-throughput async agent pipeline for enterprise tasks | `TypeScript` `MCP` `Docker` `Redis` | `[█████████░] 90%` |
-| 🐳 **DevOps Automation Suite** | GitOps auto-scaling infrastructure with observability | `Kubernetes` `Terraform` `Prometheus` | `[███████░░░] 70%` |
-| 🧠 **Distributed Vector Graph** | Hybrid lexical + semantic context retrieval network | `C++` `Python` `gRPC` `PostgreSQL` | `[██████░░░░] 60%` |
-
-</div>
-
-<br/>
-
----
-
-### 📊 Engineering Analytics & Dashboard
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=akmalesmat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=7EE787" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <!-- Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akmalesmat&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&alarm=FF7B72" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalesmat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="Top Languages" />
-      </td>
-      <td width="50%">
-        <!-- WakaTime Activity Placeholder -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akmalesmat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="WakaTime Activity" />
-      </td>
-    </tr>
-  </table>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
 <br/>
 
-### 🐍 Contribution Activity Snake
-
+<!-- ============ CUSTOM STATUS WIDGETS ============ -->
 <div align="center">
-  <!-- Dynamic GitHub Contribution Snake -->
+<table>
+<tr>
+<td align="center" width="20%">
+
+**Current Focus**
+```
+Building AI Knowledge
+Systems
+```
+
+</td>
+<td align="center" width="20%">
+
+**Learning**
+```
+Kubernetes
+Distributed Systems
+Advanced Linux
+```
+
+</td>
+<td align="center" width="20%">
+
+**Location**
+```
+Cairo, Egypt
+```
+
+</td>
+<td align="center" width="20%">
+
+**Status**
+```
+● Online
+● Building
+● Learning
+```
+
+</td>
+<td align="center" width="20%">
+
+**Fuel**
+```
+☕ 235 cups
+and counting
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ============ CURRENTLY BUILDING ============ -->
+<div align="center">
+<h3>Currently Building</h3>
+<img src="./assets/building.svg" width="100%" alt="currently building"/>
+</div>
+
+<br/>
+
+<!-- ============ FEATURED PROJECTS ============ -->
+<div align="center">
+<h3>Featured Projects</h3>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐳 e-finance DevOps Handbook
+Interactive reference site documenting a real DevOps internship — CI/CD design, infrastructure-as-code, and monitoring, built for future engineers to onboard from.
+
+**Stack:** Docker · Kubernetes · Terraform · GitHub Actions · Grafana · Prometheus
+
+🔧 [Repo](https://github.com/Akmal-Esmat/YOUR-REPO) · [Live Site](https://YOUR-LIVE-DEMO)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ AI Code Checker
+Tree-sitter-based pipeline that extracts structural and stylometric features from code repositories and classifies authorship signal using Random Forest / Logistic Regression / XGBoost.
+
+**Stack:** Python · Tree-sitter · scikit-learn · XGBoost
+
+🔧 [Repo](https://github.com/Akmal-Esmat/ai_code_checker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 JWT Auth Service
+Spring Boot authentication service with Spring Security, JJWT token issuance, and `BCryptPasswordEncoder` for credential hashing.
+
+**Stack:** Java · Spring Boot · Spring Security
+
+🔧 [Repo](https://github.com/Akmal-Esmat/YOUR-REPO)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 UI Automation Playground
+A fully simulated multi-page enterprise CI/CD platform in Streamlit — built specifically as a stable, realistic target for Selenium/Playwright practice.
+
+**Stack:** Python · Streamlit
+
+🔧 [Repo](https://github.com/Akmal-Esmat/YOUR-REPO)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ GITHUB ANALYTICS ============ -->
+<div align="center">
+<h3>Analytics</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=dark&bg_color=05070d&title_color=00f0ff&icon_color=7a5cff&text_color=cdd6f4&border_color=263254&count_private=true" width="49%" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akmal-Esmat&theme=dark&background=05070d&stroke=263254&ring=00f0ff&fire=7a5cff&currStreakLabel=00f0ff" width="49%" alt="streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=dark&bg_color=05070d&title_color=00f0ff&text_color=cdd6f4&border_color=263254" width="100%" alt="top langs"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akmal-Esmat&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ============ NEOFETCH-STYLE STATS CARD ============ -->
+<!--
+  🔧 Powered by jeantimex/neofetch-profile — https://github.com/jeantimex/neofetch-profile
+  Zero setup needed: it reads your public GitHub data live from the URL below.
+  Swap YOUR_USERNAME for Akmal-Esmat (already done) and it just works.
+  Optional: host a config.json (see the repo's README) to customize which
+  fields show and their labels/colors.
+-->
+<div align="center">
+<h3>Neofetch</h3>
+
+<a href="https://github.com/jeantimex/neofetch-profile">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akmalesmat/akmalesmat/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akmalesmat/akmalesmat/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/akmalesmat/akmalesmat/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=Akmal-Esmat&theme=github-dark"/>
+    <img alt="Neofetch-style profile stats" src="https://neofetch-profile.vercel.app/api?username=Akmal-Esmat&theme=github-dark"/>
   </picture>
+</a>
+
 </div>
 
 <br/>
 
----
+<!-- ============ ACTIVITY GRAPH ============ -->
+<div align="center">
+<h3>Activity Graph</h3>
 
-### 🗺️ Journey & Engineering Timeline
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmal-Esmat&theme=react-dark&bg_color=05070d&color=00f0ff&line=7a5cff&point=cdd6f4&hide_border=true" width="100%" alt="activity graph"/>
 
+</div>
+
+<br/>
+
+<!-- ============ PHILOSOPHY ============ -->
+<div align="center">
+<img src="./assets/philosophy.svg" width="900" alt="philosophy quote"/>
+</div>
+
+<br/>
+
+<!-- ============ CONTACT ============ -->
+<div align="center">
+<h3>Contact</h3>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**GitHub**
+🔧 [@Akmal-Esmat](https://github.com/Akmal-Esmat)
+
+</td>
+<td align="center" width="25%">
+
+**LinkedIn**
+🔧 [Your Name](https://linkedin.com/in/YOUR-LINKEDIN)
+
+</td>
+<td align="center" width="25%">
+
+**Portfolio**
+🔧 [yoursite.dev](https://YOUR-PORTFOLIO)
+
+</td>
+<td align="center" width="25%">
+
+**Email**
+🔧 [your.email@example.com](mailto:your.email@example.com)
+
+</td>
+</tr>
+</table>
+
+<!-- 🔧 optional visitor counter -->
+<!-- <img src="https://komarev.com/ghpvc/?username=Akmal-Esmat&color=00f0ff&style=flat-square&label=PROFILE+VIEWS"/> -->
+
+</div>
+
+<br/>
+
+<!-- ============ EASTER EGGS (native <details> — the only real interactivity GitHub markdown allows, no JS) ============ -->
 <div align="center">
 
-```gantt
-┌──────────────────────────────────────────────────────────────────────────┐
-│  [2021] 🎓 Started Computer & Communications Engineering                 │
-│    └────► Focused on Low-Level C/C++, Data Structures, Networking       │
-│                                                                          │
-│  [2022] 💻 Full Stack Software Development                               │
-│    └────► Mastered React, Next.js, .NET Core, PostgreSQL, REST APIs      │
-│                                                                          │
-│  [2023] 🐳 DevOps & Cloud Infrastructure                                 │
-│    └────► Automated Pipelines with Docker, Kubernetes, Terraform, Linux  │
-│                                                                          │
-│  [2024] 🤖 AI Systems Architect & Autonomous Agents                      │
-│    └────► Building LLM Workflows, RAG, LangChain, MCP & Vector Databases │
-│                                                                          │
-│  [2026+] 🚀 Scaling Intelligent Distributed Platforms                     │
-│    └────► Building resilient systems that outlive human attention       │
-└──────────────────────────────────────────────────────────────────────────┘
+<details>
+<summary>👾 <code>$ sudo access --secret</code></summary>
+
+<br/>
+
+```
+Access granted.
+
+     _    _              _
+    / \  | | ___ __ ___ | | ___
+   / _ \ | |/ / '_ ` _ \| |/ _ \
+  / ___ \|   <| | | | | | |  __/
+ /_/   \_\_|\_\_| |_| |_|_|\___|
+
+"The best engineers are the ones who automated
+ their own job and got promoted for it."
+```
+
+🔧 swap this ASCII art / quote — generate more at
+[patorjk.com/software/taag](https://patorjk.com/software/taag/).
+
+</details>
+
+<details>
+<summary>🥚 one more thing…</summary>
+
+<br/>
+
+You found it. There's no prize, just the satisfaction of clicking
+`<summary>` tags — which is basically a metaphor for this whole
+DevOps handbook project.
+
+</details>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>🔧 Last checklist: swap every 🔧, add <code>.github/workflows/snake.yml</code>, run the waka-readme-stats Action once, delete this line.</sub>
+</div>
