@@ -1,4 +1,17 @@
-<!-- ============ CODING ACTIVITY ============ -->
+<!-- ============ NEOFETCH CARD ============ -->
+<div align="center">
+  ### 💻 System Info
+  <a href="https://github.com/jeantimex/neofetch-profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=Akmal-Esmat&theme=github-dark"/>
+      <img alt="Neofetch Stats" src="https://neofetch-profile.vercel.app/api?username=Akmal-Esmat&theme=github-dark"/>
+    </picture>
+  </a>
+</div>
+
+<br/>
+
+<!-- ============ WAKATIME AUTO-SYNC BLOCK ============ -->
 <div align="center">
   ### ⏱️ Coding Activity
   <!--START_SECTION:waka-->
