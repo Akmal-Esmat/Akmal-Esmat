@@ -1,45 +1,67 @@
-<!-- ============ DYNAMIC CYBER HEADER ============ -->
+<!-- ============ TERMINAL HEADER & ASCII PORTRAIT ============ -->
 <div align="center">
 
-  <!-- Animated Cyberpunk Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,40:00f0ff,100:7a5cff&height=210&section=header&text=AKMAL%20ESMAT&fontSize=44&fontColor=ffffff&animation=twinkling&desc=DevOps%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Systems%20Architect&descSize=16&descAlignY=64" width="100%" alt="Header Banner"/>
-
-  <br/><br/>
-
-  <!-- Dynamic Typing Terminal Line -->
+  <!-- Live Typing Terminal Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=%24+whoami;Akmal+Esmat+--+Computer+%26+Communications+Engineer;%3E+DevOps+Engineer+%40+e-finance;%3E+Building+Autonomous+AI+Agent+Architectures;%3E+Linux+%26+Cloud+Automation+Enthusiast;%3E+Architecting+Resilient+Microservices" alt="Typing Terminal"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=800&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=%24+init_system_core.sh;%3E+Akmal+Esmat+--+Computer+%26+Comm.+Engineer;%3E+DevOps+Engineer+%40+e-finance;%3E+Architecting+Autonomous+AI+Agents;%3E+Linux+Kernel+%26+Automation+Addict" alt="Terminal Header" />
   </a>
-
-  <br/><br/>
 
 </div>
 
-<!-- ============ WHO AM I & WHAT I DO (TERMINAL MATRIX) ============ -->
+<br/>
+
+<!-- ============ LIVE TERMINAL & ASCII FACE MATRIX ============ -->
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ WHO AM I?</h3>
-      <pre><code><b>[IDENTITY]</b>  Akmal Esmat
-<b>[DEGREE]</b>    B.Sc. Computer & Comm. Engineering
-<b>[ALMA_MAT]</b>  Cairo University 🎓
+    <td colspan="2" bgcolor="#161b22">
+      <font color="#8b949e"><b>🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp; akmal@devops-node: ~/profile (zsh)</b></font>
+    </td>
+  </tr>
+  <tr>
+    <td width="38%" bgcolor="#0d1117" valign="top" align="center">
+      <pre><font color="#00f0ff">
+     .------------------.
+    /  ________________  \
+   |  /  .----------.  \  |
+   | |  /  (o)  (o)  \  | |
+   | |  |    /\      |  | |
+   | |  \   \__/     /  | |
+   |  \  '----------'  /  |
+    \  '--------------'  /
+     '------------------'
+        /            \
+       /              \
+      /   SYSTEM CORE  \
+     '------------------'
+</font>
+<font color="#7a5cff"><b>AKMAL ESMAT</b></font>
+<font color="#8b949e">Systems Architect & AI Builder</font>
+</pre>
+    </td>
+    <td width="62%" bgcolor="#0d1117" valign="top">
+      <pre><code><font color="#00f0ff">$ whoami --verbose</font>
+<b>[NAME]</b>      Akmal Esmat
+<b>[DEGREE]</b>    B.Sc. Computer & Communications Engineering
+<b>[ALMA_MATER]</b> Cairo University 🎓
 <b>[ROLE]</b>      DevOps Engineer @ e-finance 💼
 <b>[LOCATION]</b>  Cairo, Egypt 🇪🇬
-<b>[CORE]</b>      Systems, Cloud Infra & AI
+<b>[SYSTEM]</b>    Linux Power User | Arch / Debian
 
-<i>"Architecting resilient systems that scale 
- seamless automation and outlive human attention."</i></code></pre>
+<font color="#00f0ff">$ cat what_i_do.json</font>
+{
+  <font color="#7a5cff">"cloud_devops"</font>: [<font color="#7ee787">"Kubernetes"</font>, <font color="#7ee787">"Docker"</font>, <font color="#7ee787">"Terraform"</font>, <font color="#7ee787">"CI/CD"</font>],
+  <font color="#7a5cff">"backend_engine"</font>: [<font color="#7ee787">"FastAPI"</font>, <font color="#7ee787">"Spring Boot"</font>, <font color="#7ee787">".NET Core"</font>],
+  <font color="#7a5cff">"ai_systems"</font>: [<font color="#7ee787">"Agentic Workflows"</font>, <font color="#7ee787">"RAG"</font>, <font color="#7ee787">"Vector DBs"</font>],
+  <font color="#7a5cff">"philosophy"</font>: <font color="#7ee787">"Automate the repeatable. Architect the resilient."</font>
+}
+
+<font color="#00f0ff">$ status --live</font>
+<font color="#7ee787">● Active</font> | Building AI Knowledge Systems & High-Scale Infra</code></pre>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠️ WHAT I DO</h3>
-      <pre><code><b>01. DevOps & Cloud Infrastructure</b>
-    └─ K8s, Docker, Terraform, CI/CD, Observability
+  </tr>
+</table>
 
-<b>02. High-Performance Backends</b>
-    └─ FastAPI, Spring Boot, .NET Core, Microservices
-
-<b>03. AI Systems & Agentic Workflows</b>
-    └─ Multi-Agent Workflows, RAG, Vector DBs
+<br/>
 
 <!-- ============ 3D ISOMETRIC CITY ============ -->
 <div align="center">
@@ -68,10 +90,3 @@
   <h3>📊 Engineering Telemetry</h3>
   <img src="https://metrics.lecoq.io/Akmal-Esmat?template=classic&base=header%2C%20activity%2C%20community&base.indepth=false&config.timezone=Africa%2FCairo&theme=tokyonight" width="100%" alt="Engineering Metrics"/>
 </div>
-<b>04. Linux & Automation Addict</b>
-    └─ Bash, System Kernel Tuning, Task Orchestration</code></pre>
-    </td>
-  </tr>
-</table>
-
-<br/>
