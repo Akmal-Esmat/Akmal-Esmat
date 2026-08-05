@@ -1,26 +1,111 @@
-<!-- ============ HIGH-TECH TERMINAL HEADER ============ -->
+<!-- BOOT SEQUENCE -->
 <div align="center">
+  
+```shell
+Booting AkmalOS...
+Loading Linux Kernel............. OK
+Loading Infrastructure.......... OK
+Loading Knowledge Engine........ OK
+Loading AI Agents............... OK
+Loading Automation Layer........ OK
+Loading System Telemetry........ OK
+System Ready.
+Welcome to AkmalOS.
+Plaintext
+██████╗  ██████╗  ██████╗ ████████╗
+██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
+██████╔╝██║   ██║██║   ██║   ██║   
+██╔══██╗██║   ██║██║   ██║   ██║   
+██████╔╝╚██████╔╝╚██████╔╝   ██║   
+╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   
+🟢 SYSTEM_STATUS
+Shell
+USER............... Akmal Esmat
+KERNEL............. Linux
+FOCUS.............. DevOps • Infrastructure • AI
+CURRENT_MISSION.... Building an AI Knowledge Operating System
+STATUS............. [ ONLINE ]
+VERSION............ v2026
+🚀 CURRENT_MISSION
+Plaintext
+MISSION_01: Building an AI system that learns continuously.
 
-  <!-- Typing Hero Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=45&lines=%24+fastfetch+--config+profile.json;%3E+Akmal+Esmat+%7C+Systems+%26+DevOps+Architect;%3E+Building+Autonomous+Agentic+Pipelines;%3E+Linux+Kernel+%26+High-Scale+Cloud+Infrastructure" alt="Header Terminal Typing"/>
-  </a>
+[ ✔ ] Memory
+[ ✔ ] Knowledge Graph
+[ ✔ ] Agent Framework
+[ ✔ ] Long-Term Context
+[ ✔ ] Tool Calling
+[ ✔ ] Reasoning
 
-</div>
+PROGRESS: [██████████████░░░░] 75%
+🌐 LIVE_ARCHITECTURE
+Plaintext
+                                 [ User ]
+                                    │
+                         ┌──────────▼──────────┐
+                         │  AI Request Router  │
+                         └────┬─────┬─────┬────┘
+                              │     │     │
+         ┌──────────┐   ┌─────▼┐ ┌──▼──┐ ┌▼──────┐
+         │ Knowledge│   │Coding│ │Rsch.│ │Memory │
+         └─────┬────┘   └──────┘ └─────┘ └───────┘
+               │
+      ┌────────▼─────────┐
+      │ Hybrid Retrieval │
+      └────────┬─────────┘
+               │
+┌──────────────▼────────────────┐
+│ Vector DB + Knowledge Graph   │
+└──────────────┬────────────────┘
+               │
+      ┌────────▼─────────┐
+      │  Memory Engine   │
+      └────────┬─────────┘
+               │
+      ┌────────▼─────────┐
+      │  Agent Runtime   │
+      └────────┬─────────┘
+               │
+      ┌────────▼─────────┐
+      │  External Tools  │
+      └──────────────────┘
+📂 PROJECT_STATUS
+Shell
+PROCESS              STATUS           PROGRESS
+------------------------------------------------------
+[1] Linux Handbook   [ ONLINE ]       ████████████ 100%
+[2] Knowledge Engine [ BUILDING ]     ████████░░░░  60%
+[3] Restaurant Port. [ DEPLOYED ]     ████████████ 100%
+[4] Bash Playground  [ ACTIVE ]       ████████████ 100%
+------------------------------------------------------
 
-<br/>
 
-<!-- ============ FASTFETCH / SYSTEM TELEMETRY ============ -->
-<div align="center">
+🔒 HIDDEN_TERMINAL
+Shell
+akmalOS@system:~$ whoami
+Akmal Esmat
 
-```ansi
-[1;36m       /\          [1;37mAKMAL ESMAT[0m [1;30m@[0m [1;36me-finance-node01[0m
-[1;36m      /  \         [1;30m----------------------------------------[0m
-[1;36m     / /\ \        [1;33mOS          [0m Arch Linux x86_64 / Linux 6.10 LTS
-[1;36m    / /  \ \       [1;33mROLE        [0m DevOps Engineer @ e-finance
-[1;36m   / /    \ \      [1;33mDEGREE      [0m B.Sc. Comp & Comm Engineering @ Cairo Univ
-[1;36m  / /______\ \     [1;33mBACKEND     [0m FastAPI, Spring Boot, .NET Core, C++
-[1;36m /____________\    [1;33mINFRA       [0m Kubernetes, Docker, Terraform, CI/CD, NGINX
-                   [1;33mAI ENGINE   [0m LangGraph, Agentic Workflows, RAG, Qdrant
-                   [1;33mUPTIME      [0m 235 days (Continuous Execution)
-                   [1;33mSTATUS      [0m [1;32m● Active[0m | Architecting Distributed AI Systems
+akmalOS@system:~$ skills
+> Python
+> Linux
+> Docker
+> Terraform
+> Kubernetes
+> Bash
+
+akmalOS@system:~$ projects
+> Knowledge Engine
+> Linux Handbook
+> Restaurant Portfolio
+> Agent Framework
+
+akmalOS@system:~$ roadmap
+> Distributed Systems
+> Infrastructure
+> Autonomous Agents
+> Knowledge Graphs
+
+akmalOS@system:~$ sudo make future
+[sudo] password for visitor: *********
+Building future...
+Success.
