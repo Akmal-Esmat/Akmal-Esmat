@@ -1,27 +1,50 @@
-<!-- ============ 3D ISOMETRIC CITY ============ -->
+<!-- ============ DYNAMIC CYBER HEADER ============ -->
 <div align="center">
-  <h3>🏙️ System Infrastructure Grid</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/profile-3d-contrib/profile-gitblock.svg">
-    <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
-  </picture>
-</div>
 
-<br/>
+  <!-- Animated Cyberpunk Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,40:00f0ff,100:7a5cff&height=210&section=header&text=AKMAL%20ESMAT&fontSize=44&fontColor=ffffff&animation=twinkling&desc=DevOps%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Systems%20Architect&descSize=16&descAlignY=64" width="100%" alt="Header Banner"/>
 
-<!-- ============ UNIFIED SKILL MATRIX ============ -->
-<div align="center">
-  <h3>🛠️ Core Engineering Stack</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,js,dotnet,fastapi,postgres,docker,kubernetes,terraform,linux,bash,nginx,prometheus,grafana&perline=8&theme=dark" alt="Skill Stack Grid" />
+  <br/><br/>
+
+  <!-- Dynamic Typing Terminal Line -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=%24+whoami;Akmal+Esmat+--+Computer+%26+Communications+Engineer;%3E+DevOps+Engineer+%40+e-finance;%3E+Building+Autonomous+AI+Agent+Architectures;%3E+Linux+%26+Cloud+Automation+Enthusiast;%3E+Architecting+Resilient+Microservices" alt="Typing Terminal"/>
   </a>
+
+  <br/><br/>
+
 </div>
+
+<!-- ============ WHO AM I & WHAT I DO (TERMINAL MATRIX) ============ -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ WHO AM I?</h3>
+      <pre><code><b>[IDENTITY]</b>  Akmal Esmat
+<b>[DEGREE]</b>    B.Sc. Computer & Comm. Engineering
+<b>[ALMA_MAT]</b>  Cairo University 🎓
+<b>[ROLE]</b>      DevOps Engineer @ e-finance 💼
+<b>[LOCATION]</b>  Cairo, Egypt 🇪🇬
+<b>[CORE]</b>      Systems, Cloud Infra & AI
+
+<i>"Architecting resilient systems that scale 
+ seamless automation and outlive human attention."</i></code></pre>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ WHAT I DO</h3>
+      <pre><code><b>01. DevOps & Cloud Infrastructure</b>
+    └─ K8s, Docker, Terraform, CI/CD, Observability
+
+<b>02. High-Performance Backends</b>
+    └─ FastAPI, Spring Boot, .NET Core, Microservices
+
+<b>03. AI Systems & Agentic Workflows</b>
+    └─ Multi-Agent Workflows, RAG, Vector DBs
+
+<b>04. Linux & Automation Addict</b>
+    └─ Bash, System Kernel Tuning, Task Orchestration</code></pre>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-<!-- ============ DEEP METRICS & HABITS ============ -->
-<div align="center">
-  <h3>📊 Engineering Telemetry</h3>
-  <img src="https://metrics.lecoq.io/Akmal-Esmat?template=classic&base=header%2C%20activity%2C%20community&base.indepth=false&config.timezone=Africa%2FCairo&theme=tokyonight" width="100%" alt="Engineering Metrics"/>
-</div>
