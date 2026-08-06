@@ -18,25 +18,24 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ### `> whoami`
 
-```yaml
-role:       Systems Engineer · DevOps · AI Infrastructure
-focus:      Distributed Systems, Automation, Autonomous Agents
-mindset:    Design before implementation. Automate everything. Observe everything.
-currently:  DevOps Internship — CI/CD, containerization, cloud-native delivery
-building:   OS-level AI agent — dual GUI/shell action modes, verification
-            layer, re-planning under uncertainty
-```
+| | |
+|---|---|
+| **role** | Systems Engineer · DevOps · AI Infrastructure |
+| **focus** | Distributed Systems, Automation, Autonomous Agents |
+| **mindset** | Design before implementation. Automate everything. Observe everything. |
+| **currently** | DevOps Internship — CI/CD, containerization, cloud-native delivery |
+| **building** | OS-level AI agent — dual GUI/shell action modes, verification layer, re-planning under uncertainty |
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 ### `> stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF&icon_color=B39DFF&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=00F0FF&icon_color=B39DFF&text_color=c9d1d9" width="100%"/>
 
 </td>
 </tr>
@@ -160,36 +159,25 @@ Agent Memory
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmal-Esmat&theme=tokyo-night&bg_color=1a1b27&color=00F0FF&line=B39DFF&point=ffffff&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmal-Esmat&theme=dracula&bg_color=1a1b27&color=00F0FF&line=B39DFF&point=ffffff&hide_border=true&area=true" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akmal-Esmat&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00F0FF&ring=B39DFF&fire=00F0FF&currStreakLabel=00F0FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF&text_color=c9d1d9" width="42%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akmal-Esmat&theme=dracula&hide_border=true&background=1a1b27&stroke=00F0FF&ring=B39DFF&fire=00F0FF&currStreakLabel=00F0FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=00F0FF&text_color=c9d1d9" width="42%"/>
 
 </div>
 
 <br/>
 
-## `> cat CI-CD-pipeline.txt`
-
-```text
-GitHub → GitHub Actions → Docker Build → Container Registry
-   → Terraform → Kubernetes Cluster → Prometheus + Grafana
-```
-
-<br/>
-
 ## `> current-build-log`
 
-```diff
-+ Building intelligent knowledge systems (RAG, vector search, agent memory)
-+ Engineering infrastructure automation pipelines end-to-end
-+ Designing AI agent platforms with verification & re-planning layers
-+ Shipping cloud-native applications on Azure + Kubernetes
-+ Writing production-ready DevOps pipelines
-+ System design & architecture for distributed platforms
-```
+- 🟢 Building intelligent knowledge systems (RAG, vector search, agent memory)
+- 🟢 Engineering infrastructure automation pipelines end-to-end
+- 🟢 Designing AI agent platforms with verification & re-planning layers
+- 🟢 Shipping cloud-native applications on Azure + Kubernetes
+- 🟢 Writing production-ready DevOps pipelines
+- 🟢 System design & architecture for distributed platforms
 
 <br/>
 
