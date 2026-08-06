@@ -1,111 +1,27 @@
-<!-- BOOT SEQUENCE -->
+<!-- ============ 3D ISOMETRIC CITY ============ -->
 <div align="center">
-  
-```shell
-Booting AkmalOS...
-Loading Linux Kernel............. OK
-Loading Infrastructure.......... OK
-Loading Knowledge Engine........ OK
-Loading AI Agents............... OK
-Loading Automation Layer........ OK
-Loading System Telemetry........ OK
-System Ready.
-Welcome to AkmalOS.
-Plaintext
-██████╗  ██████╗  ██████╗ ████████╗
-██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
-██████╔╝██║   ██║██║   ██║   ██║   
-██╔══██╗██║   ██║██║   ██║   ██║   
-██████╔╝╚██████╔╝╚██████╔╝   ██║   
-╚═════╝  ╚═════╝  ╚═════╝    ╚═╝   
-🟢 SYSTEM_STATUS
-Shell
-USER............... Akmal Esmat
-KERNEL............. Linux
-FOCUS.............. DevOps • Infrastructure • AI
-CURRENT_MISSION.... Building an AI Knowledge Operating System
-STATUS............. [ ONLINE ]
-VERSION............ v2026
-🚀 CURRENT_MISSION
-Plaintext
-MISSION_01: Building an AI system that learns continuously.
+  <h3>🏙️ System Infrastructure Grid</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/profile-3d-contrib/profile-gitblock.svg">
+    <img src="https://raw.githubusercontent.com/Akmal-Esmat/Akmal-Esmat/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+  </picture>
+</div>
 
-[ ✔ ] Memory
-[ ✔ ] Knowledge Graph
-[ ✔ ] Agent Framework
-[ ✔ ] Long-Term Context
-[ ✔ ] Tool Calling
-[ ✔ ] Reasoning
+<br/>
 
-PROGRESS: [██████████████░░░░] 75%
-🌐 LIVE_ARCHITECTURE
-Plaintext
-                                 [ User ]
-                                    │
-                         ┌──────────▼──────────┐
-                         │  AI Request Router  │
-                         └────┬─────┬─────┬────┘
-                              │     │     │
-         ┌──────────┐   ┌─────▼┐ ┌──▼──┐ ┌▼──────┐
-         │ Knowledge│   │Coding│ │Rsch.│ │Memory │
-         └─────┬────┘   └──────┘ └─────┘ └───────┘
-               │
-      ┌────────▼─────────┐
-      │ Hybrid Retrieval │
-      └────────┬─────────┘
-               │
-┌──────────────▼────────────────┐
-│ Vector DB + Knowledge Graph   │
-└──────────────┬────────────────┘
-               │
-      ┌────────▼─────────┐
-      │  Memory Engine   │
-      └────────┬─────────┘
-               │
-      ┌────────▼─────────┐
-      │  Agent Runtime   │
-      └────────┬─────────┘
-               │
-      ┌────────▼─────────┐
-      │  External Tools  │
-      └──────────────────┘
-📂 PROJECT_STATUS
-Shell
-PROCESS              STATUS           PROGRESS
-------------------------------------------------------
-[1] Linux Handbook   [ ONLINE ]       ████████████ 100%
-[2] Knowledge Engine [ BUILDING ]     ████████░░░░  60%
-[3] Restaurant Port. [ DEPLOYED ]     ████████████ 100%
-[4] Bash Playground  [ ACTIVE ]       ████████████ 100%
-------------------------------------------------------
+<!-- ============ UNIFIED SKILL MATRIX ============ -->
+<div align="center">
+  <h3>🛠️ Core Engineering Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,js,dotnet,fastapi,postgres,docker,kubernetes,terraform,linux,bash,nginx,prometheus,grafana&perline=8&theme=dark" alt="Skill Stack Grid" />
+  </a>
+</div>
 
+<br/>
 
-🔒 HIDDEN_TERMINAL
-Shell
-akmalOS@system:~$ whoami
-Akmal Esmat
-
-akmalOS@system:~$ skills
-> Python
-> Linux
-> Docker
-> Terraform
-> Kubernetes
-> Bash
-
-akmalOS@system:~$ projects
-> Knowledge Engine
-> Linux Handbook
-> Restaurant Portfolio
-> Agent Framework
-
-akmalOS@system:~$ roadmap
-> Distributed Systems
-> Infrastructure
-> Autonomous Agents
-> Knowledge Graphs
-
-akmalOS@system:~$ sudo make future
-[sudo] password for visitor: *********
-Building future...
-Success.
+<!-- ============ DEEP METRICS & HABITS ============ -->
+<div align="center">
+  <h3>📊 Engineering Telemetry</h3>
+  <img src="https://metrics.lecoq.io/Akmal-Esmat?template=classic&base=header%2C%20activity%2C%20community&base.indepth=false&config.timezone=Africa%2FCairo&theme=tokyonight" width="100%" alt="Engineering Metrics"/>
+</div>
