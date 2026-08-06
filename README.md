@@ -36,7 +36,7 @@ building:   OS-level AI agent — dual GUI/shell action modes, verification
 
 ### `> stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF&icon_color=B39DFF&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF&icon_color=B39DFF&text_color=c9d1d9" width="100%"/>
 
 </td>
 </tr>
@@ -160,12 +160,12 @@ Agent Memory
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=00F0FF&line=B39DFF&point=ffffff&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmal-Esmat&theme=tokyo-night&bg_color=1a1b27&color=00F0FF&line=B39DFF&point=ffffff&hide_border=true&area=true" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00F0FF&ring=B39DFF&fire=00F0FF&currStreakLabel=00F0FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF&text_color=c9d1d9" width="42%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akmal-Esmat&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00F0FF&ring=B39DFF&fire=00F0FF&currStreakLabel=00F0FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00F0FF&text_color=c9d1d9" width="42%"/>
 
 </div>
 
@@ -199,7 +199,7 @@ GitHub → GitHub Actions → Docker Build → Container Registry
 
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="https://github.com/Akmal-Esmat"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
 
 <br/><br/>
 
