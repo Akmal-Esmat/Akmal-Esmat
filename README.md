@@ -6,19 +6,15 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Computer_%26_Communications_Engineering-1a1b27?style=for-the-badge&logo=readthedocs&logoColor=00F0FF&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/-Cairo,_Egypt-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=B39DFF&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/-Open_to_Collab-1a1b27?style=for-the-badge&logo=handshake&logoColor=00F0FF&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Computer%20%26%20Communications%20Engineering-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cairo%2C%20Egypt-00B4D8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Collab-06D6A0?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
 
 ### `> whoami`
 
@@ -30,128 +26,97 @@
 | **currently** | DevOps Internship — CI/CD, containerization, cloud-native delivery |
 | **building** | OS-level AI agent — dual GUI/shell action modes, verification layer, re-planning under uncertainty |
 
-</td>
-<td width="45%" valign="top">
+<br/>
 
 ### `> stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=00F0FF&icon_color=B39DFF&text_color=c9d1d9" width="100%"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Akmal-Esmat&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=00F0FF&icon_color=B39DFF&text_color=c9d1d9&ring_color=00F0FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=00F0FF&text_color=c9d1d9" width="38%"/>
+</div>
 
 <br/>
 
 ## `> engineering-domains`
 
-<table width="100%">
-<tr>
-<td width="20%" valign="top" align="center">
-
 **🏗️ Architecture**
-<br/><sub>
-Distributed Systems<br/>
-Microservices<br/>
-Event-Driven Design<br/>
-API Design<br/>
-Scalability
-</sub>
-
-</td>
-<td width="20%" valign="top" align="center">
+<br/>
+<img src="https://img.shields.io/badge/Distributed_Systems-1a1b27?style=flat-square&logoColor=00F0FF&color=EF476F"/>
+<img src="https://img.shields.io/badge/Microservices-1a1b27?style=flat-square&color=EF476F"/>
+<img src="https://img.shields.io/badge/Event--Driven_Design-1a1b27?style=flat-square&color=EF476F"/>
+<img src="https://img.shields.io/badge/API_Design-1a1b27?style=flat-square&color=EF476F"/>
+<img src="https://img.shields.io/badge/Scalability-1a1b27?style=flat-square&color=EF476F"/>
 
 **⚙️ Infrastructure**
-<br/><sub>
-Docker<br/>
-Kubernetes<br/>
-Terraform<br/>
-Azure<br/>
-Linux
-</sub>
-
-</td>
-<td width="20%" valign="top" align="center">
+<br/>
+<img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ED&color=118AB2"/>
+<img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=flat-square&logo=kubernetes&logoColor=326CE5&color=118AB2"/>
+<img src="https://img.shields.io/badge/Terraform-1a1b27?style=flat-square&logo=terraform&logoColor=844FBA&color=118AB2"/>
+<img src="https://img.shields.io/badge/Azure-1a1b27?style=flat-square&logo=microsoftazure&logoColor=0078D4&color=118AB2"/>
+<img src="https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=FCC624&color=118AB2"/>
 
 **🔁 Automation**
-<br/><sub>
-CI/CD<br/>
-GitHub Actions<br/>
-Bash<br/>
-Ansible<br/>
-Infrastructure as Code
-</sub>
-
-</td>
-<td width="20%" valign="top" align="center">
+<br/>
+<img src="https://img.shields.io/badge/CI%2FCD-1a1b27?style=flat-square&color=06D6A0"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-1a1b27?style=flat-square&logo=githubactions&logoColor=2088FF&color=06D6A0"/>
+<img src="https://img.shields.io/badge/Bash-1a1b27?style=flat-square&logo=gnubash&logoColor=4EAA25&color=06D6A0"/>
+<img src="https://img.shields.io/badge/Ansible-1a1b27?style=flat-square&logo=ansible&logoColor=EE0000&color=06D6A0"/>
+<img src="https://img.shields.io/badge/Infrastructure_as_Code-1a1b27?style=flat-square&color=06D6A0"/>
 
 **📊 Observability**
-<br/><sub>
-Prometheus<br/>
-Grafana<br/>
-Metrics<br/>
-Logging<br/>
-Monitoring
-</sub>
-
-</td>
-<td width="20%" valign="top" align="center">
+<br/>
+<img src="https://img.shields.io/badge/Prometheus-1a1b27?style=flat-square&logo=prometheus&logoColor=E6522C&color=FFD166"/>
+<img src="https://img.shields.io/badge/Grafana-1a1b27?style=flat-square&logo=grafana&logoColor=F46800&color=FFD166"/>
+<img src="https://img.shields.io/badge/Metrics-1a1b27?style=flat-square&color=FFD166"/>
+<img src="https://img.shields.io/badge/Logging-1a1b27?style=flat-square&color=FFD166"/>
+<img src="https://img.shields.io/badge/Monitoring-1a1b27?style=flat-square&color=FFD166"/>
 
 **🤖 AI Systems**
-<br/><sub>
-AI Agents<br/>
-RAG<br/>
-Vector Search<br/>
-Knowledge Graphs<br/>
-Agent Memory
-</sub>
-
-</td>
-</tr>
-</table>
+<br/>
+<img src="https://img.shields.io/badge/AI_Agents-1a1b27?style=flat-square&color=9D4EDD"/>
+<img src="https://img.shields.io/badge/RAG-1a1b27?style=flat-square&color=9D4EDD"/>
+<img src="https://img.shields.io/badge/Vector_Search-1a1b27?style=flat-square&color=9D4EDD"/>
+<img src="https://img.shields.io/badge/Knowledge_Graphs-1a1b27?style=flat-square&color=9D4EDD"/>
+<img src="https://img.shields.io/badge/Agent_Memory-1a1b27?style=flat-square&color=9D4EDD"/>
 
 <br/>
 
 ## `> stack --list`
 
-<div align="center">
-
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C++-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Bash-1a1b27?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
-<img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **Backend**
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/.NET-1a1b27?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
-<img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 **Infrastructure**
 <br/>
-<img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Terraform-1a1b27?style=for-the-badge&logo=terraform&logoColor=844FBA"/>
-<img src="https://img.shields.io/badge/Azure-1a1b27?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 **Automation & Monitoring**
 <br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-1a1b27?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Ansible-1a1b27?style=for-the-badge&logo=ansible&logoColor=EE0000"/>
-<img src="https://img.shields.io/badge/Prometheus-1a1b27?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
-<img src="https://img.shields.io/badge/Grafana-1a1b27?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 
 **AI / Agents**
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Vector_DB-1a1b27?style=for-the-badge&logo=pinecone&logoColor=B39DFF"/>
-
-</div>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_DB-9D4EDD?style=for-the-badge&logo=pinecone&logoColor=white"/>
 
 <br/>
 
@@ -163,8 +128,7 @@ Agent Memory
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akmal-Esmat&theme=dracula&hide_border=true&background=1a1b27&stroke=00F0FF&ring=B39DFF&fire=00F0FF&currStreakLabel=00F0FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=00F0FF&text_color=c9d1d9" width="42%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akmal-Esmat&theme=dracula&hide_border=true&background=1a1b27&stroke=00F0FF&ring=B39DFF&fire=00F0FF&currStreakLabel=00F0FF" width="60%"/>
 
 </div>
 
@@ -185,9 +149,9 @@ Agent Memory
 
 ### `> connect`
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://github.com/Akmal-Esmat"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Akmal-Esmat"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
