@@ -2,13 +2,13 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=AKMAL%20ESMAT&fontSize=54&fontColor=00F0FF&fontAlignY=35&desc=Computer%20%26%20Communication%20Engineering%20Student&descAlignY=52&descSize=17&descColor=B39DFF&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,50:B2EBF2,100:80DEEA&height=260&section=header&text=AKMAL%20ESMAT&fontSize=54&fontColor=006064&fontAlignY=35&desc=Computer%20%26%20Communication%20Engineering%20Student&descAlignY=52&descSize=17&descColor=00838F&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=AKMAL%20ESMAT&fontSize=54&fontColor=00F0FF&fontAlignY=35&desc=Computer%20%26%20Communication%20Engineering%20Student&descAlignY=52&descSize=17&descColor=B39DFF&animation=fadeIn" width="100%"/>
-</picture>
+# Akmal Esmat
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+AI+agents+%26+knowledge+systems.;Automating+cloud+infrastructure.;Engineering+intelligent+platforms." />
+**Computer & Communications Engineering Student**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Designing+scalable+systems.;Building+cloud+infrastructure.;Automating+developer+workflows." />
+
+<sub>─── ⌁ ───</sub>
 
 <br/>
 
