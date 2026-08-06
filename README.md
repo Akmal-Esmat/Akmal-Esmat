@@ -18,7 +18,7 @@
 
 <br/>
 
-# Systems I Enjoy Building
+## Systems I Enjoy Building
 
 - AI Agents & Autonomous Systems
 - Knowledge Systems (RAG, Vector Search)
@@ -28,7 +28,7 @@
 
 <br/>
 
-# Engineering Areas
+## Engineering Areas
 
 <table width="100%" border="0">
 <tr>
@@ -133,13 +133,13 @@ Grafana
 
 <br/>
 
-# Currently Building
+## Currently Building
 
 > Working hands-on with RAG, vector search, and agent memory in a DevOps internship — shipping containerized AI tools on Azure with automated CI/CD pipelines.
 
 <br/>
 
-# GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -166,7 +166,7 @@ Grafana
 
 <br/>
 
-# Connect
+## Connect
 
 <div align="center">
 
