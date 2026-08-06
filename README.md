@@ -4,9 +4,9 @@
 
 # Akmal Esmat
 
-**Computer & Communications Engineering Student**
+**Computer & Communication Engineering Student**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Designing+scalable+systems.;Building+cloud+infrastructure.;Automating+developer+workflows." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+AI+agents+%26+knowledge+systems.;Automating+cloud+infrastructure.;Engineering+intelligent+platforms." />
 
 <sub>─── ⌁ ───</sub>
 
@@ -20,11 +20,11 @@
 
 ## Systems I Enjoy Building
 
-- Cloud Infrastructure
-- Developer Platforms
-- Knowledge Systems
+- AI Agents & Autonomous Systems
+- Knowledge Systems (RAG, Vector Search)
+- Cloud Infrastructure & CI/CD Platforms
+- Developer Tooling
 - Distributed Applications
-- AI-powered Tools
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 <table width="100%" border="0">
 <tr>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 **Architecture**
 
@@ -41,7 +41,7 @@ Distributed Systems
 REST APIs
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 **Infrastructure**
 
@@ -51,7 +51,7 @@ Terraform
 Azure
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
 
 **Automation**
 
@@ -61,7 +61,17 @@ Linux
 Bash
 
 </td>
-<td width="25%" valign="top">
+<td width="20%" valign="top">
+
+**AI / ML**
+
+RAG
+Vector DBs
+Agents
+PyTorch
+
+</td>
+<td width="20%" valign="top">
 
 **Observability**
 
@@ -80,28 +90,42 @@ Grafana
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Knowledge OS
-→ Personal AI knowledge platform
+### 🤖 OS-Level AI Agent
+→ Dual GUI/shell action modes, verification layer, re-planning under uncertainty (Graduation Project)
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Infrastructure Platform
-→ Kubernetes + Terraform + GitHub Actions
+### 💬 AI DevOps Assistant
+→ Next.js + FastAPI chatbot, Dockerized, deployed to Azure via GitHub Actions CI/CD
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 Linux Automation Toolkit
-→ Bash scripts for infrastructure
+### ✍️ Collaborative Text Editor
+→ Real-time CRDT-based sync engine, Java, WebSockets, Spring Boot
 
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ Restaurant Marketing Platform
-→ Full-stack business system
+### 🎧 SoundCloud Clone
+→ Full-stack web app, Next.js + TypeScript + Tailwind — Frontend Team Lead
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦾 Smart Wallet for the Visually Impaired
+→ STM32 + ARM Assembly, sensor-driven real-time obstacle feedback
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 CPU Scheduler
+→ C on Linux, multithreading, IPC, custom scheduling algorithms
 
 </td>
 </tr>
@@ -111,7 +135,7 @@ Grafana
 
 ## Currently Building
 
-> Currently building a knowledge platform that combines vector search, AI agents, and long-term memory — while continuing to learn distributed systems and cloud-native architecture.
+> Currently building an OS-level AI agent for my graduation project — combining GUI and shell action modes with a verification layer and re-planning under uncertainty — while working hands-on with RAG, vector search, and agent memory in a DevOps internship shipping containerized AI tools on Azure.
 
 <br/>
 
@@ -134,8 +158,8 @@ Grafana
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akmal-esmat-894a01346/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:akmalesmat23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
