@@ -30,6 +30,18 @@ Automating everything possible.
 **Architecture:** REST APIs • Microservices • Event Driven Systems  
 
 ---
+<!-- TERMINAL HERO SECTION -->
+<div align="center">
+
+```shell
+Booting AkmalOS...
+Loading Infrastructure.......... OK
+Loading Linux Environment....... OK
+Loading Knowledge Engine........ OK
+Loading AI Agents............... OK
+Loading Projects................ OK
+
+System Ready.
 
 ### System Design Philosophy
 I enjoy designing systems before writing code.
