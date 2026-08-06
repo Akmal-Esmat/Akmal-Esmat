@@ -119,12 +119,12 @@ Grafana
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&bg_color=1a1b27&color=00F0FF&line=B39DFF&point=ffffff&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmal-Esmat&theme=dracula&bg_color=1a1b27&color=00F0FF&line=B39DFF&point=ffffff&hide_border=true&area=true" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=00F0FF&text_color=c9d1d9" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true&background=1a1b27&stroke=00F0FF&ring=B39DFF&fire=00F0FF&currStreakLabel=00F0FF" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal-Esmat&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=00F0FF&text_color=c9d1d9" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akmal-Esmat&theme=dracula&hide_border=true&background=1a1b27&stroke=00F0FF&ring=B39DFF&fire=00F0FF&currStreakLabel=00F0FF" width="55%"/>
 
 </div>
 
