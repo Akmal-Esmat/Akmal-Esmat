@@ -170,9 +170,9 @@ Grafana
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/akmal-esmat-894a01346/"><img src="https://img.shields.io/badge/--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
+<a href="https://www.linkedin.com/in/akmal-esmat/"><img src="https://img.shields.io/badge/--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
 &nbsp;
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
+<a href="https://PORTOFOLIO_UNDER_CONSTRUCTION⏳"><img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
 &nbsp;
 <a href="mailto:akmalesmat23@gmail.com"><img src="https://img.shields.io/badge/--EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/></a>
 
